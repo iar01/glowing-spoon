@@ -4,7 +4,7 @@ import { connect } from "react-redux";
 import PropTypes from "prop-types";
 import { logout } from "../../actions/auth_action/auth";
 import { getSubscription } from "../../actions/Subscription/Subscription_Action";
-import logo from "../../media/Logo/logo.svg";
+// import logo from "../../media/Logo/logo.svg";
 
 class Navbar_Keen extends Component {
   static propTypes = {
