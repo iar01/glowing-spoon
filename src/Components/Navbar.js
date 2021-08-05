@@ -1,6 +1,6 @@
 import React, {Fragment, Component} from "react";
 import {Container, Navbar, Button, Nav, NavDropdown} from "react-bootstrap";
-import logo from '../media/Logo/logo.svg'
+// import logo from '../media/Logo/logo.svg'
 import {connect} from "react-redux";
 import PropTypes from 'prop-types'
 import {logout} from "../actions/auth_action/auth";
