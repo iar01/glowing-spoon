@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import data from "../DummyData/data2.json";
 import { OverlayTrigger, Tooltip, Button, Modal } from "react-bootstrap";
-import generate from "../../media/svg/generate.svg";
+import generate from "../../media/svg/generate.png";
 import user from "../../assets/media/users/300_1.jpg";
 
 class TableData extends Component {

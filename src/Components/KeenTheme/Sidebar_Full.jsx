@@ -1,5 +1,5 @@
 import React,{Component} from "react";
-import logo from "../../media/Logo/logo.svg";
+import logo from "../../media/Logo/logo.png";
 export default class sidebar_Full extends Component{
     render() {
         return (

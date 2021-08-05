@@ -15,7 +15,7 @@ import Base from "./Stripe/Base";
 import Imagex from "../../assets/media/bg/bg-6.jpg";
 import paypalimg from "../../assets/Paypal/img2.jpg";
 import stripelogo from "../../assets/Stripe/250px-Stripe_Logo,_revised_2016.svg.png";
-import Logo from "../../media/Logo/logo.svg";
+import Logo from "../../media/Logo/logo.png";
 
 class PaymentPage extends Component {
   static propTypes = {

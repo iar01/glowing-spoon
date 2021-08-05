@@ -44,8 +44,8 @@ export default class QuickPanel extends Component {
                                     <div className="d-flex align-items-center flex-wrap mb-5">
                                         <div className="symbol symbol-50 symbol-light mr-5">
                                                 <span className="symbol-label">
-                                                    <img src="assets/media/svg/misc/006-plurk.svg"
-                                                         className="h-50 align-self-center" alt=""/>
+                                                    {/*<img src="assets/media/svg/misc/006-plurk.svg"*/}
+                                                    {/*     className="h-50 align-self-center" alt=""/>*/}
                                                 </span>
                                         </div>
                                         <div className="d-flex flex-column flex-grow-1 mr-2">
@@ -63,8 +63,8 @@ export default class QuickPanel extends Component {
                                     <div className="d-flex align-items-center flex-wrap mb-5">
                                         <div className="symbol symbol-50 symbol-light mr-5">
                                                 <span className="symbol-label">
-                                                    <img src="assets/media/svg/misc/015-telegram.svg"
-                                                         className="h-50 align-self-center" alt=""/>
+                                                    {/*<img src="assets/media/svg/misc/015-telegram.svg"*/}
+                                                    {/*     className="h-50 align-self-center" alt=""/>*/}
                                                 </span>
                                         </div>
                                         <div className="d-flex flex-column flex-grow-1 mr-2">
@@ -82,8 +82,8 @@ export default class QuickPanel extends Component {
                                     <div className="d-flex align-items-center flex-wrap mb-5">
                                         <div className="symbol symbol-50 symbol-light mr-5">
                                                 <span className="symbol-label">
-                                                    <img src="assets/media/svg/misc/003-puzzle.svg"
-                                                         className="h-50 align-self-center" alt=""/>
+                                                    {/*<img src="assets/media/svg/misc/003-puzzle.svg"*/}
+                                                    {/*     className="h-50 align-self-center" alt=""/>*/}
                                                 </span>
                                         </div>
                                         <div className="d-flex flex-column flex-grow-1 mr-2">
@@ -101,8 +101,8 @@ export default class QuickPanel extends Component {
                                     <div className="d-flex align-items-center flex-wrap mb-5">
                                         <div className="symbol symbol-50 symbol-light mr-5">
                                                 <span className="symbol-label">
-                                                    <img src="assets/media/svg/misc/005-bebo.svg"
-                                                         className="h-50 align-self-center" alt=""/>
+                                                    {/*<img src="assets/media/svg/misc/005-bebo.svg"*/}
+                                                    {/*     className="h-50 align-self-center" alt=""/>*/}
                                                 </span>
                                         </div>
                                         <div className="d-flex flex-column flex-grow-1 mr-2">
@@ -120,8 +120,8 @@ export default class QuickPanel extends Component {
                                     <div className="d-flex align-items-center flex-wrap">
                                         <div className="symbol symbol-50 symbol-light mr-5">
                                                 <span className="symbol-label">
-                                                    <img src="assets/media/svg/misc/014-kickstarter.svg"
-                                                         className="h-50 align-self-center" alt=""/>
+                                                    {/*<img src="assets/media/svg/misc/014-kickstarter.svg"*/}
+                                                    {/*     className="h-50 align-self-center" alt=""/>*/}
                                                 </span>
                                         </div>
                                         <div className="d-flex flex-column flex-grow-1 mr-2">

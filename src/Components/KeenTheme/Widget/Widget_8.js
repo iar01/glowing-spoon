@@ -96,11 +96,11 @@ export default class Widget_8 extends Component {
                                 {/*begin::Symbol*/}
                                 <div className="symbol symbol-45 symbol-light mr-5">
                                     <span className="symbol-label">
-                                      <img
-                                          src="assets/media/svg/misc/006-plurk.svg"
-                                          className="h-50 align-self-center"
-                                          alt=""
-                                      />
+                                      {/*<img*/}
+                                      {/*    src="assets/media/svg/misc/006-plurk.svg"*/}
+                                      {/*    className="h-50 align-self-center"*/}
+                                      {/*    alt=""*/}
+                                      {/*/>*/}
                                     </span>
                                 </div>
                                 {/*end::Symbol*/}
@@ -134,11 +134,11 @@ export default class Widget_8 extends Component {
                                 {/*begin::Symbol*/}
                                 <div className="symbol symbol-45 symbol-light mr-5">
                                     <span className="symbol-label">
-                                      <img
-                                          src="assets/media/svg/misc/015-telegram.svg"
-                                          className="h-50 align-self-center"
-                                          alt=""
-                                      />
+                                      {/*<img*/}
+                                      {/*    src="assets/media/svg/misc/015-telegram.svg"*/}
+                                      {/*    className="h-50 align-self-center"*/}
+                                      {/*    alt=""*/}
+                                      {/*/>*/}
                                     </span>
                                 </div>
                                 {/*end::Symbol*/}
@@ -172,11 +172,11 @@ export default class Widget_8 extends Component {
                                 {/*begin::Symbol*/}
                                 <div className="symbol symbol-45 symbol-light mr-5">
                                     <span className="symbol-label">
-                                      <img
-                                          src="assets/media/svg/misc/014-kickstarter.svg"
-                                          className="h-50 align-self-center"
-                                          alt=""
-                                      />
+                                      {/*<img*/}
+                                      {/*    src="assets/media/svg/misc/014-kickstarter.svg"*/}
+                                      {/*    className="h-50 align-self-center"*/}
+                                      {/*    alt=""*/}
+                                      {/*/>*/}
                                     </span>
                                 </div>
                                 {/*end::Symbol*/}

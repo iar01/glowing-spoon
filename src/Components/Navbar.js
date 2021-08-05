@@ -1,6 +1,6 @@
 import React, {Fragment, Component} from "react";
 import {Container, Navbar, Button, Nav, NavDropdown} from "react-bootstrap";
-// import logo from '../media/Logo/logo.svg'
+import logo from '../media/Logo/logo.png'
 import {connect} from "react-redux";
 import PropTypes from 'prop-types'
 import {logout} from "../actions/auth_action/auth";
@@ -25,7 +25,7 @@ export class NavbarComponent extends Component {
                         <Navbar.Brand href="/">
                             <img
                                 alt=""
-                                // src={logo}
+                                src={logo}
                                 width="30"
                                 height="30"
                                 className="d-inline-block align-top"

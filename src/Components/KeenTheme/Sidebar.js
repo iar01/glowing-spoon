@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import logo from "../../media/Logo/logo.svg";
+import logo from "../../media/Logo/logo.png";
 import Student from "../../media/svg/students.svg";
 import sub from "../../media/svg/renew.svg";
 import Home from "../../media/svg/home.svg";

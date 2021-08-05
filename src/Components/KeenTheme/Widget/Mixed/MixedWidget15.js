@@ -117,9 +117,9 @@ export default class Mixed_Widget_15 extends Component {
                                     <div
                                         className="symbol symbol-50 symbol-light mr-3 flex-shrink-0">
                                         <div className="symbol-label">
-                                            <img
-                                                src="assets/media/svg/misc/006-plurk.svg"
-                                                className="h-50" alt=""/>
+                                            {/*<img*/}
+                                            {/*    src="assets/media/svg/misc/006-plurk.svg"*/}
+                                            {/*    className="h-50" alt=""/>*/}
                                         </div>
                                     </div>
                                     {/*end::Symbol*/}
@@ -153,9 +153,9 @@ export default class Mixed_Widget_15 extends Component {
                                     <div
                                         className="symbol symbol-50 symbol-light mr-3 flex-shrink-0">
                                         <div className="symbol-label">
-                                            <img
-                                                src="assets/media/svg/misc/015-telegram.svg"
-                                                className="h-50" alt=""/>
+                                            {/*<img*/}
+                                            {/*    src="assets/media/svg/misc/015-telegram.svg"*/}
+                                            {/*    className="h-50" alt=""/>*/}
                                         </div>
                                     </div>
                                     {/*end::Symbol*/}
@@ -189,9 +189,9 @@ export default class Mixed_Widget_15 extends Component {
                                     <div
                                         className="symbol symbol-50 symbol-light mr-3 flex-shrink-0">
                                         <div className="symbol-label">
-                                            <img
-                                                src="assets/media/svg/misc/003-puzzle.svg"
-                                                className="h-50" alt=""/>
+                                            {/*<img*/}
+                                            {/*    src="assets/media/svg/misc/003-puzzle.svg"*/}
+                                            {/*    className="h-50" alt=""/>*/}
                                         </div>
                                     </div>
                                     {/*end::Symbol*/}
